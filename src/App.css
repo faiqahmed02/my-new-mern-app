@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+form {
+  margin: 20px auto;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+}
+
+div {
+  margin-bottom: 10px;
+}
+
+label {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input {
+  padding: 8px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px;
+  font-size: 16px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #218838;
+}
